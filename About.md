@@ -16,5 +16,6 @@
   <li>Based on his influenced state for a particular disease he will have to upload documents .</li>
   <li>The documents once verified will update the count of disease concentration in that area.</li>
   <li>Based on the data medical agencies as well as a resider could check heath risks in that area.</li>
+   <li> If the user update data ,he/she will get creadits in the field of medicare. </li> 
   </ul>
     </p>
